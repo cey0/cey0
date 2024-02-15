@@ -1,3 +1,4 @@
+#👋 HI My Name Is Nadra A.K.A ceyo, Full Time Dreamer<br>
 # 💫 About Me:
 🎃 I'm currently a backend for Schoolgaz<br>😻 I'm learning Go, JS, .NET, Java<br>🧚‍♀️ I'm a Highschooler from SMK Tunas Media<br>
 
