@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🎃 I'm currently a backend for Schoolgaz<br>😻 I'm learning Go, JS, .NET, Java<br>🧚‍♀️ I'm a Highschooler from SMK Tunas Media<br>
+😻 I'm learning Go, JS, .NET, Java<br>🧚‍♀️ I'm a Highschooler from SMK Tunas Media<br>
 
 
 # 💻 Tech Stack:
